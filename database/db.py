@@ -16,7 +16,7 @@ def init_db():
         urgency TEXT,
         department TEXT,
         summary TEXT,
-        status TEXT DEFAULT 'Pending'
+        status TEXT DEFAULT 'Pending',
         emergency_flag TEXT DEFAULT 'No'
     )
     """)

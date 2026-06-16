@@ -11,7 +11,7 @@ The system uses multiple AI agents working together to analyze patient symptoms,
 ## 🚀 Live Demo
 
 
-https://mediassist-agentic-ai-hb9nzkb5z5nyi5y4humrca.streamlit.app/Admin
+https://mediassist-agentic-ai-hb9nzkb5z5nyi5y4humrca.streamlit.app/
 
 ---
 
